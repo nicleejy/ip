@@ -51,6 +51,7 @@ public class Duke {
             }
 
             String output = parser.processInput(input);
+
             System.out.println(Format.formatResponse(output));
         }
         scanner.close();

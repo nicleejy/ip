@@ -35,14 +35,14 @@ public enum Response {
     COMPLETED_TASK {
         @Override
         public String toString() {
-            return "Wowww c-congwatuwations on compweting youw task!!";
+            return "Wowww c-congwatuwations on compweting youw task!!\n";
         }
     },
 
     INCOMPLETE_TASK {
         @Override
         public String toString() {
-            return "omg nyoooooo why you have nyot compwete youw t-task :(";
+            return "omg nyoooooo why you have nyot compwete youw t-task :(\n";
         }
     },
 

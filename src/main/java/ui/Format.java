@@ -44,7 +44,7 @@ public class Format {
         }
 
         if (showMessage) {
-            response.append("Heww are your tasks UwU!\n");
+            response.append("Heww are your tasks UwU!\n\n");
         }
 
         for (int i = 0; i < taskList.size(); i++) {

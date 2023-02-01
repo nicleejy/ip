@@ -1,2 +1,2 @@
-Deadline|false|eat food|23/12/2023 1200
-Deadline|false|do the dishes|21/01/2023 2300
+Event|false|Meet Alex for lunch|12/01/2023 1300|13/01/2023 1400
+Deadline|true|Finish cs2103 increments|23/02/2023 1630
